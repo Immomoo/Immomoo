@@ -1,5 +1,9 @@
 # Hi, I'm Immomoo
 
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" alt="Typing cat animation" />
+</p>
+
 I build Web3 products with a focus on clean interfaces, encrypted user experiences, and practical decentralized infrastructure.
 
 Right now, I am working on **Yora**, a time-locked encrypted capsule dApp for Aptos and Shelby. Yora lets users seal private messages or files, store encrypted blobs on Shelby, and make them available to a recipient wallet after a chosen unlock time.
